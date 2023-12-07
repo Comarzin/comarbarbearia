@@ -10,9 +10,8 @@ body{font-size: 20px;
 
 .imagem{width: 100%;}
 
-.lista{display: inline;
+.lista{display: inline-block;
 vertical-align: top;
-margin-right: 15%;
 }
 
 .imagem_beneficio{width: 50%;}
