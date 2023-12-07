@@ -1,5 +1,4 @@
-body{font-size: 20px;
- }
+body{font-size: 20px;}
 
 .principal{text-align: center;
     background-color: grey;}
@@ -11,8 +10,8 @@ body{font-size: 20px;
 .imagem{width: 100%;}
 
 .lista{display: inline-block;
-vertical-align: top;
-}
+vertical-align: top;}
+
 
 .imagem_beneficio{width: 50%;}
 
